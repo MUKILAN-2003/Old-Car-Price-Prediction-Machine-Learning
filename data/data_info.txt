@@ -1,0 +1,12 @@
+<fuel-type>
+gas - 1
+diesel - 2
+
+<aspiration>
+std - 1
+turbo - 2
+
+<engine-location>
+front - 1
+rear - 2
+
